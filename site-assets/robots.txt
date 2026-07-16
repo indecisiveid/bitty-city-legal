@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bitty.city/sitemap.xml
+Sitemap: https://www.bitty.city/sitemap.xml
